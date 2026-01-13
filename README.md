@@ -4,7 +4,7 @@ This project is a technical test assignment for the Frontend/Full Stack position
 
 ## Live Demo
 
-https://your-demo-link.vercel.app
+https://frontend-test-ellty.vercel.app/
 
 ## Tech Stack
 
